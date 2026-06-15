@@ -1,7 +1,3 @@
-<p align="center">
-  <img src="banner.png" alt="Uday Maurya — Full-Stack Developer" width="100%" />
-</p>
-
 # Hi, I'm Uday Maurya
 
 Full-stack developer focused on MERN, TypeScript, and practical web apps.
