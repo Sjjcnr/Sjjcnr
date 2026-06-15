@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="banner.png" alt="Uday Maurya — Full-Stack Developer" width="100%" />
+</p>
+
 # Hi, I'm Uday Maurya
 
 Full-stack developer focused on MERN, TypeScript, and practical web apps.
@@ -9,15 +13,15 @@ Full-stack developer focused on MERN, TypeScript, and practical web apps.
 ### About
 
 - Building full-stack web apps with **React, Node.js, Express, and MongoDB**
-- Writing TypeScript daily and getting comfortable with Supabase for auth and real-time data
-- Practicing DSA consistently — **170+ problems solved** on LeetCode
+- Writing TypeScript daily and using Supabase for auth and real-time features
+- **180+ problems solved** on LeetCode — focused on arrays, trees, and DP
 - B.Tech IT student at Parul Institute of Engineering and Technology (2024–27)
 
 ---
 
 ### 🔧 Featured Work
 
-**SkinWise Advisor**
+**SkinWise**
 Personalized skincare recommendation app — users submit their skin profile and receive tailored product and routine suggestions powered by AI.
 Stack: React · TypeScript · Tailwind CSS · Supabase
 [Live Demo →](https://skin-wise-two.vercel.app/)
@@ -37,16 +41,15 @@ Stack: Node.js · Express · MongoDB · HTML/CSS/JS
 **Frontend:** React · Tailwind CSS · HTML · CSS
 **Backend:** Node.js · Express.js
 **Databases:** MongoDB · Supabase · MySQL
-**Tools:** Git · GitHub · VS Code
 
 ---
 
-### 📈 Currently Improving
+### 📈 What I'm Working On
 
-- React component architecture and state management patterns
-- Backend API design with Node.js and Express
-- MongoDB data modeling and aggregation
-- Data structures and algorithms through LeetCode
+- Deepening React patterns — compound components, custom hooks, and cleaner state flows
+- Building REST APIs with proper validation, error handling, and middleware chains
+- Exploring MongoDB aggregation pipelines for non-trivial queries
+- Grinding LeetCode daily to sharpen problem-solving speed
 
 ---
 
@@ -55,11 +58,3 @@ Stack: Node.js · Express · MongoDB · HTML/CSS/JS
 - **B.Tech IT** — Parul Institute of Engineering and Technology (2024–27, CGPA 7.40)
 - **Diploma IT** — Parul Polytechnic Institute (CGPA 8.73)
 - **NPTEL** — Computer Networks & Internet Protocol, IIT Kharagpur (Score: 61%)
-- **LeetCode** — 170+ problems solved across arrays, trees, and dynamic programming
-
----
-
-### Connect
-
-📬 Reach me at **udaymaurya2611@gmail.com** or connect on [LinkedIn](https://www.linkedin.com/in/uday-maurya-3b5322235).
-Browse my work at [maurya-portfolio.vercel.app](https://maurya-portfolio.vercel.app).
