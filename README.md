@@ -33,9 +33,7 @@ Stack: Node.js · Express · MongoDB · HTML/CSS/JS
 
 > The source code for these projects is available in my pinned repositories.
 
-<p align="center">
-  <img src="divider.jpg" alt="pixel art divider" width="100%" />
-</p>
+---
 
 ### Tech Stack
 
