@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="header.jpg" alt="pixel art banner" width="100%" />
+</p>
+
 # Hi, I'm Uday Maurya
 
 Full-stack developer focused on MERN, TypeScript, and practical web apps.
@@ -29,7 +33,9 @@ Stack: Node.js · Express · MongoDB · HTML/CSS/JS
 
 > The source code for these projects is available in my pinned repositories.
 
----
+<p align="center">
+  <img src="divider.jpg" alt="pixel art divider" width="100%" />
+</p>
 
 ### Tech Stack
 
@@ -54,3 +60,7 @@ Stack: Node.js · Express · MongoDB · HTML/CSS/JS
 - **B.Tech IT** — Parul Institute of Engineering and Technology (2024–27, CGPA 7.40)
 - **Diploma IT** — Parul Polytechnic Institute (CGPA 8.73)
 - **NPTEL** — Computer Networks & Internet Protocol, IIT Kharagpur (Score: 61%)
+
+<p align="center">
+  <img src="footer.jpg" alt="game over dino" width="40%" />
+</p>
