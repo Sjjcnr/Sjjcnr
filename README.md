@@ -14,33 +14,42 @@ Full-stack developer focused on MERN, TypeScript, and practical web apps.
 
 - Building full-stack web apps with **React, Node.js, Express, and MongoDB**
 - Writing TypeScript daily and using Supabase for auth and real-time features
-- **180+ problems solved** on LeetCode — focused on arrays, trees, and DP
+- **230+ problems solved** on LeetCode — focused on arrays, trees, and DP
 - B.Tech IT student at Parul Institute of Engineering and Technology (2024–27)
+
+---
+
+### 🛠️ Tech Stack
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=js,ts,java,react,tailwind,nodejs,express,mongodb,supabase,mysql,vite,git,github,postman,vscode&perline=8" alt="Tech Stack" />
+</p>
+
+---
+
+### 🧩 LeetCode Stats
+
+<p align="left">
+  <a href="https://leetcode.com/u/udaymaurya/">
+    <img src="https://leetcard.jacoblin.cool/udaymaurya?theme=dark&font=JetBrains%20Mono" alt="Uday Maurya's LeetCode Stats" />
+  </a>
+</p>
 
 ---
 
 ### 🔧 Featured Work
 
-**SkinWise**
-Personalized skincare recommendation app — users submit their skin profile and receive tailored product and routine suggestions powered by AI.
-Stack: React · TypeScript · Tailwind CSS · Supabase
+**SkinWise**  
+Personalized skincare recommendation app — users submit their skin profile and receive tailored product and routine suggestions powered by AI.  
+Stack: React · TypeScript · Tailwind CSS · Supabase  
 [Live Demo →](https://skin-wise-two.vercel.app/)
 
-**Personal Notes App**
-Full-stack CRUD notes manager with a Node.js + Express backend, MVC architecture, and MongoDB persistence.
-Stack: Node.js · Express · MongoDB · HTML/CSS/JS
+**Personal Notes App**  
+Full-stack CRUD notes manager with a Node.js + Express backend, MVC architecture, and MongoDB persistence.  
+Stack: Node.js · Express · MongoDB · HTML/CSS/JS  
 [Live Demo →](https://personal-notes-app-m34h.onrender.com/)
 
 > The source code for these projects is available in my pinned repositories.
-
----
-
-### Tech Stack
-
-**Languages:** JavaScript · TypeScript · Java
-**Frontend:** React · Tailwind CSS · HTML · CSS
-**Backend:** Node.js · Express.js
-**Databases:** MongoDB · Supabase · MySQL
 
 ---
 
@@ -55,7 +64,7 @@ Stack: Node.js · Express · MongoDB · HTML/CSS/JS
 
 ### Education & Credentials
 
-- **B.Tech IT** — Parul Institute of Engineering and Technology (2024–27, CGPA 7.40)
+- **B.Tech IT** — Parul Institute of Engineering and Technology (2024–27, CGPA 7.66)
 - **Diploma IT** — Parul Polytechnic Institute (CGPA 8.73)
 - **NPTEL** — Computer Networks & Internet Protocol, IIT Kharagpur (Score: 61%)
 
