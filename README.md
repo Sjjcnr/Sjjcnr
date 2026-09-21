@@ -30,7 +30,6 @@ Full-stack developer focused on MERN, TypeScript, and practical web apps.
 
 - Building full-stack web apps with **React, Node.js, Express, and MongoDB**
 - Writing TypeScript daily and using Supabase for auth and real-time features
-- **230+ problems solved** on LeetCode — focused on arrays, trees, and DP
 - B.Tech IT student at Parul Institute of Engineering and Technology (2024–27)
 
 ---
