@@ -6,7 +6,23 @@
 
 Full-stack developer focused on MERN, TypeScript, and practical web apps.
 
-[Portfolio](https://maurya-portfolio.vercel.app) · [LinkedIn](https://www.linkedin.com/in/uday-maurya-3b5322235) · [LeetCode](https://leetcode.com/u/udaymaurya/) · [Email](mailto:udaymaurya2611@gmail.com)
+<p align="left">
+  <a href="https://maurya-portfolio.vercel.app" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-2563EB?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" />
+  </a>
+  <a href="https://www.linkedin.com/in/uday-maurya-3b5322235" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://leetcode.com/u/udaymaurya/" target="_blank">
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode" />
+  </a>
+  <a href="https://github.com/Sjjcnr" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
+  <a href="mailto:udaymaurya2611@gmail.com">
+    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+</p>
 
 ---
 
@@ -50,6 +66,18 @@ Stack: Node.js · Express · MongoDB · HTML/CSS/JS
 [Live Demo →](https://personal-notes-app-m34h.onrender.com/)
 
 > The source code for these projects is available in my pinned repositories.
+
+---
+
+### 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats-fast.vercel.app/api?username=Sjjcnr&show_icons=true&theme=radical" alt="Uday Maurya's GitHub Stats" />
+  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=Sjjcnr&layout=compact&theme=radical" alt="Top Languages" />
+</p>
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=Sjjcnr&theme=radical" alt="GitHub Streak" />
+</p>
 
 ---
 
